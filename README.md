@@ -8,6 +8,8 @@ Este projeto foi desenvolvido durante um curso da **Alura**, com a orientação 
 
 Lembrando que tem que ter instalado Python, Pip, FastAPI, e Uvicorn para rodar o programa corretamente!
 
+Instale todos os pacotes listados no requirements.txt e utilize a API disponível na URL: https://guilhermeonrails.github.io/api-restaurantes/restaurantes.json
+
 ### 🚀 O que está incluído?
 
 🔹 **Versão 1 – Python puro:**  
@@ -34,6 +36,8 @@ Hello! My name is **Anderson** 👋 and I’m a **Computer Science** student con
 This project was created during a course on **Alura**, with the guidance of two great instructors, and it simulates a basic restaurant management system.
 
 Remember that you need to have Python, Pip, FastAPI, and Uvicorn installed to run the program correctly!
+
+Install all the packages listed in requirements.txt and use the API available at: https://guilhermeonrails.github.io/api-restaurantes/restaurantes.json
 
 ### 🚀 What’s included?
 

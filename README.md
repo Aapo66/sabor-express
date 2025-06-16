@@ -6,6 +6,8 @@ Olá! Me chamo **Anderson** 👋 e sou estudante de **Ciência da Computação**
 
 Este projeto foi desenvolvido durante um curso da **Alura**, com a orientação de dois excelentes professores, e tem como objetivo simular a lógica de funcionamento de um sistema simples de restaurantes.
 
+Lembrando que tem que ter instalado Python, Pip, FastAPI, e Uvicorn para rodar o programa corretamente!
+
 ### 🚀 O que está incluído?
 
 🔹 **Versão 1 – Python puro:**  
@@ -30,6 +32,8 @@ Este projeto foi essencial para praticar conceitos como **orientação a objetos
 Hello! My name is **Anderson** 👋 and I’m a **Computer Science** student constantly working to improve my skills in **Python** and **API development** using **FastAPI**.
 
 This project was created during a course on **Alura**, with the guidance of two great instructors, and it simulates a basic restaurant management system.
+
+Remember that you need to have Python, Pip, FastAPI, and Uvicorn installed to run the program correctly!
 
 ### 🚀 What’s included?
 
